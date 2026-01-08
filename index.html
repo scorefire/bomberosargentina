@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Sistema de Calificaciones</title>
+
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <div class="app-container">
+    <div class="card main-card fade-in">
+
+      <!-- LOGO -->
+      <img src="logo.png" alt="Logo Cuartel" class="logo" />
+
+      <h1>Bomberos Voluntarios <br>
+          Argentina</h1>
+      <h2>Sistema de Calificaciones</h2>
+
+      <div class="menu">
+
+        <div class="menu-item">
+          <button id="btnBombero" class="menu-btn" onclick="entrar('bombero')">
+              👨‍🚒 Ver mis calificaciones
+              </button>
+          <p class="menu-desc">
+            Consulta individual del personal.
+          </p>
+        </div>
+
+        <div class="menu-item">
+         <button id="btnJefe" class="menu-btn" onclick="entrar('jefe')">
+            👨‍✈️ Calificar personal
+            </button>
+          <p class="menu-desc">
+            Acceso exclusivo para jefes y encargados.
+          </p>
+        </div>
+
+      </div>
+
+      <footer>
+        <p>Desarrollado por Score Fire © <br>
+          2026 - Todos los Derechos Reservados
+        </p>
+      </footer>
+
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
