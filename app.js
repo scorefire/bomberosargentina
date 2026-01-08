@@ -1,4 +1,4 @@
-const URL_BOMBERO = "https://bomberosargentina-app.github.io/calificaciones/";
+const URL_BOMBERO = "https://scorefire.github.io/bomberosargentina-calificaciones/";
 const URL_JEFES   = "https://bomberosargentina-app.github.io/jefes/";
 
 function entrar(tipo) {
