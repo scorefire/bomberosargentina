@@ -1,5 +1,5 @@
 const URL_BOMBERO = "https://scorefire.github.io/bomberosargentina-calificaciones/";
-const URL_JEFES   = "https://bomberosargentina-app.github.io/jefes/";
+const URL_JEFES   = "https://scorefire.github.io/bomberosargentina-jefes/";
 
 function entrar(tipo) {
   const btnBombero = document.getElementById("btnBombero");
