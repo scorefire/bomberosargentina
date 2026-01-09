@@ -51,6 +51,13 @@ h2 {
   font-size: 0.95rem;
   color: #ccc;
 }
+h3 {
+  margin-top: 6px;
+  margin-bottom: 30px;
+  font-weight: normal;
+  font-size: 0.95rem;
+  color: #ff3b3b;
+}
 
 /* MENU */
 .menu {
