@@ -95,6 +95,7 @@ h2 {
 
 /* DESCRIPCIONES */
 .menu-desc {
+  margin-top: 1px;
   font-size: 0.75rem;
   color: #aaa;
   opacity: 0.85;
