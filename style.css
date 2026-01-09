@@ -51,12 +51,8 @@ h2 {
   font-size: 0.95rem;
   color: #ccc;
 }
-h3 {
-  margin-top: 2px;
-  margin-bottom: 30px;
-  font-weight: normal;
-  font-size: 0.95rem;
-  color: #ff3b3b;
+.fire {
+  color: #ff2a2a; /* rojo fuego */
 }
 
 /* MENU */
