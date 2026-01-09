@@ -53,6 +53,8 @@ h2 {
 }
 .fire {
   color: #ff2a2a; /* rojo fuego */
+  font-style: italic;
+  font-weight: 500;
 }
 
 /* MENU */
